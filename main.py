@@ -19,7 +19,7 @@ if "messages" not in st.session_state:
 
 if prompt := st.chat_input():
     if not anthropic_api_key:
-        st.info("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")
+        st.info("sk-ant-api03-G-PxGqsY0WdJ8wCnifh____THIS IS WHERE YOUR ANTHROPIC KEY GOES____rN5iounap3gQ6Oabd1GEfrB2tl3z7w-VKZr5wAA")
         st.stop()
 
     client = anthropic(api_key=anthropic_api_key)
