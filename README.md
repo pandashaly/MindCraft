@@ -1,17 +1,18 @@
+#  **AI for All Hackathon at 42 London - Mind Craft**
 
-# **Mind Craft 🧠**
+<img src="https://media.licdn.com/dms/image/v2/D4E22AQF7KI7oTwMf1g/feedshare-shrink_1280/feedshare-shrink_1280/0/1707832315109?e=1739404800&v=beta&t=CDgcyAvi6Pv2D35SEY5mXVSZHtkWoLsn0vDRYVSpKes" alt="42 London Hackathon Logo" width="300">
 
-Mind Craft is an interactive, AI-powered learning tool designed to personalize education for every user. Inspired by the creativity and flexibility of games like Minecraft, this mobile-first app lets learners explore topics visually, build their knowledge interactively, and craft a unique learning journey tailored to their interests, passions, and goals.
+*As part of this event, I also had the honor of designing the logo for the **42 London Hackathon**, symbolizing innovation and education.*
 
 This project was created as part of the **AI for All Hackathon at 42 London (February 23-26)**, where participants explored the potential of AI in revolutionizing education. The event brought together students from 42 London, LIS: The London Interdisciplinary School, City, University of London, and The Engineering & Design Institute London (TEDI-London). Leveraging Anthropic's Claude and mentorship from industry experts, this project is a product of collaboration, creativity, and a shared vision for the future of learning.
 
-![42 London Hackathon](https://media.licdn.com/dms/image/v2/D4E22AQF7KI7oTwMf1g/feedshare-shrink_1280/feedshare-shrink_1280/0/1707832315109?e=1739404800&v=beta&t=CDgcyAvi6Pv2D35SEY5mXVSZHtkWoLsn0vDRYVSpKes)
+---
 
-As part of this event, I also had the honor of designing the logo for the **42 London Hackathon**, symbolizing innovation and education.
+# **Mind Craft 🧠 : An AI-Powered Personalised Learning Tool**
 
-![MindCraft Demo](mindcraft.gif)
+Mind Craft is an interactive, AI-powered learning tool designed to personalize education for every user. Inspired by the creativity and flexibility of games like Minecraft, this mobile-first app lets learners explore topics visually, build their knowledge interactively, and craft a unique learning journey tailored to their interests, passions, and goals.
 
-
+<img src="mindcraft.gif" alt="MindCraft Demo" width="200">
 
 ## **Features**
 
@@ -27,9 +28,11 @@ As part of this event, I also had the honor of designing the logo for the **42 L
 - **Offline Mode**: Download lessons and continue learning even without an internet connection.
 
 ### 🛠️ Built With
-- **Frontend**: [Streamlit](https://streamlit.io/) for a clean, interactive user interface and a demo built using Figma to showcase the visual design and user flow.
-- **Backend**: Powered by [Anthropic’s Claude](https://www.anthropic.com/) for AI-driven learning content.
+- **Frontend**: A demo built using Figma to showcase the visual design and user flow.
+- **Backend**: The chatbot was fully functional and developed in Python, leveraging [Streamlit](https://streamlit.io/) for the user interface and [Anthropic’s Claude](https://www.anthropic.com/) for AI-driven learning content.
 - **Hosting**: Cloud-based deployment for fast and secure access.
+
+---
 
 ## **How to Use**
 1. Clone this repository:
