@@ -7,6 +7,12 @@ This project was created as part of the **AI for All Hackathon at 42 London (Feb
 
 ![42 London Hackathon](https://media.licdn.com/dms/image/v2/D4E22AQF7KI7oTwMf1g/feedshare-shrink_1280/feedshare-shrink_1280/0/1707832315109?e=1739404800&v=beta&t=CDgcyAvi6Pv2D35SEY5mXVSZHtkWoLsn0vDRYVSpKes)
 
+As part of this event, I also had the honor of designing the logo for the **42 London Hackathon**, symbolizing innovation and education.
+
+![MindCraft Demo](mindcraft.gif)
+
+
+
 ## **Features**
 
 ### 🌟 Core Functionality
